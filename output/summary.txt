@@ -1,0 +1,19 @@
+==================================================
+VEHICLE DETECTION & COUNTING SYSTEM - SUMMARY
+==================================================
+
+Report Generated: 2026-04-10 13:37:17
+
+Total Vehicles Counted: 9
+Unique Vehicles Tracked: 9
+Elapsed Time: 47.0 minutes
+Average Rate: 0.19 vehicles/minute
+
+Vehicle Distribution by Type:
+------------------------------
+  Car         :    8 ( 88.9%)
+  Motorcycle  :    0 (  0.0%)
+  Bus         :    1 ( 11.1%)
+  Truck       :    0 (  0.0%)
+
+==================================================
