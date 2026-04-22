@@ -1,6 +1,6 @@
 # Vehicle Detection & Counting System 🚗🚌🚚
 
-A professional-grade **Vehicle Detection and Counting System** built with Python, OpenCV, and YOLOv8 for real-time traffic analysis. Perfect for data analyst internship projects!
+A professional-grade **Vehicle Detection and Counting System** built with Python, OpenCV, and YOLOv8 for real-time traffic analysis.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8%2B-green)
